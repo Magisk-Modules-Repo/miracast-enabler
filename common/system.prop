@@ -3,4 +3,5 @@
 # ro.sf.lcd_density=320
 
 # Enable WiFi Display
-persist.debug.wfd.enable=1
+# Does not seem to take affect here, do manually on install
+#persist.debug.wfd.enable=1
