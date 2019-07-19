@@ -1,6 +1,6 @@
 id=miracast-enabler
 name=Miracast Enabler
-version=v2
-versionCode=2
+version=v3
+versionCode=3
 author=crass
 description=Enables Miracast screen mirroring on Pie. Not tested on non-Pixel devices.
